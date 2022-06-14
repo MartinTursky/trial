@@ -1,5 +1,5 @@
 function future(horoscopeSign) {
-    console.log(horoscopeSign);
+    console.log("Rat");
 }
 
 function greet(name) {
