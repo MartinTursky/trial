@@ -1,3 +1,3 @@
 const newMethod = function(input) {
-    console.log(input);
+    console.log(4);
 }
