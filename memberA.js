@@ -1,3 +1,3 @@
-function greet(){
-    console.log("Martin");
+function greet(name){
+    console.log(name);
 }
