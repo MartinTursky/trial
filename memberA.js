@@ -1,7 +1,4 @@
-function greet(name){
-    console.log("Greetings!");
+function greet(name,anothername){
+    console.log(name,anothername);
 }
 
-function greet2(){
-    console.log("Greetings!");
-}
