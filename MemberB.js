@@ -1,3 +1,3 @@
-const newMethod = function(input) {
-    console.log(7);
+const newMethod = function(parameter) {
+    console.log(`Counting the countless ${parameter}`);
 }
