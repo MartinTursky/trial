@@ -1,3 +1,3 @@
-const newMethod = function() {
-    console.log('22');
+const newMethod = function(input) {
+    console.log(input);
 }
