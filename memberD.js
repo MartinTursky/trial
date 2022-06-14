@@ -1,3 +1,3 @@
-function future(horoscopeSign) {
-    console.log("Rat");
+function future(parameter) {
+    console.log(`Your future looks like ${parameter}`);
 }
