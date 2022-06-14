@@ -1,3 +1,3 @@
 function cheer(param){
-    console.log(param);
+    console.log('Member B modified this');
 }
