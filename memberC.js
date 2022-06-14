@@ -1,3 +1,3 @@
-function cheer(){
-    console.log("Fox Ticket");
+function cheer(param){
+    console.log(param);
 }
