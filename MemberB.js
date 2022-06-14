@@ -1,3 +1,3 @@
-const newMethod = function(input) {
-    console.log(4);
+const newMethod = function(input1, input2) {
+    console.log(input1 + input2);
 }
