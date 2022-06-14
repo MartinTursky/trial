@@ -1,3 +1,3 @@
-function future(horoscopeSign) {
-    console.log("Rat");
+function future(first, second) {
+    console.log(first, second);
 }
